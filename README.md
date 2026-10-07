@@ -11,5 +11,5 @@
 Junior-dev
 
 Stack knowlage:
- - Python
- - C#
+ - Python: Basic, Django
+ - C#: Unity, Visual Studio
